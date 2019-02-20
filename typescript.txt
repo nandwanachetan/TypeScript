@@ -1,0 +1,26 @@
+1) compiler options in typescript
+2) any js feature + MDN (mozilla developer network) will give examples
+3) kangax gives al;l features of current and upcoming features of javascript .
+4) difference between api and feature.
+5) object and array destructuring
+6) typescript - >tuple, interface, destructuring, enum, class, properties in class(get set), generics
+
+
+----snippets of code
+1) angular v7 snippets by john papa
+2) autofilename by jerry hong
+3) vscode-icons by roberto (from file-preference->file icons theme select vscode-icons)
+4) platform-browser-dynamic requires for jit build in browser
+5) Factory creation at client for every object is jit and pre compiled and factory created before load is AOT.
+6) platform browser require to load angular on browser.
+7) attribute binding .. properties which ate attributes and not properties we can create attribut binding.
+<div [attr.height] = heightdefinedincomp/>
+8) ::ng-deep is for css to be applied to childs also work only with emulated encapsulation
+9) :host to apply style to immediate parent work only with emulated encapsulation
+10 :host-context to apply style to all parents work only with emulated encapsulation
+11) nt-template(like jquery template), ng-container(to remove unrequired div)
+12) observable is singlecast wjhere as subject is multicast in rxjs
+13) in angular @angular/router-loader is required for lazy load of module.
+
+
+
